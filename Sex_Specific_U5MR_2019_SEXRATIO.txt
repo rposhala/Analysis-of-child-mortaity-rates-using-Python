@@ -1,0 +1,195 @@
+AFG	Afghanistan	1.10	1.12	1.13	1.14	1.15
+ALB	Albania	1.21	1.21	1.20	1.18	1.18
+DZA	Algeria	1.20	1.18	1.13	1.14	1.15
+AND	Andorra	1.24	1.21	1.19	1.19	1.19
+AGO	Angola	1.16	1.18	1.21	1.22	1.23
+ATG	Antigua and Barbuda	1.24	1.24	1.22	1.20	1.18
+ARG	Argentina	1.25	1.24	1.23	1.21	1.20
+ARM	Armenia	1.23	1.24	1.25	1.25	1.24
+AUS	Australia	1.28	1.23	1.21	1.18	1.18
+AUT	Austria	1.26	1.22	1.21	1.20	1.20
+AZE	Azerbaijan	1.17	1.17	1.20	1.22	1.23
+BHS	Bahamas	1.17	1.16	1.16	1.15	1.15
+BHR	Bahrain	1.05	1.06	1.06	1.05	1.05
+BGD	Bangladesh	1.16	1.14	1.14	1.14	1.15
+BRB	Barbados	1.22	1.19	1.20	1.20	1.20
+BLR	Belarus	1.37	1.35	1.28	1.27	1.27
+BEL	Belgium	1.33	1.27	1.26	1.26	1.26
+BLZ	Belize	1.22	1.23	1.21	1.21	1.21
+BEN	Benin	1.15	1.16	1.19	1.21	1.21
+BTN	Bhutan	1.13	1.15	1.19	1.20	1.21
+BOL	Bolivia (Plurinational State of)	1.18	1.19	1.22	1.23	1.24
+BIH	Bosnia and Herzegovina	1.24	1.25	1.22	1.21	1.21
+BWA	Botswana	1.23	1.20	1.21	1.22	1.22
+BRA	Brazil	1.24	1.27	1.28	1.28	1.27
+BRN	Brunei Darussalam	1.18	1.16	1.17	1.18	1.18
+BGR	Bulgaria	1.29	1.27	1.26	1.25	1.23
+BFA	Burkina Faso	1.16	1.16	1.17	1.19	1.19
+BDI	Burundi	1.19	1.19	1.23	1.24	1.24
+KHM	Cambodia	1.22	1.21	1.26	1.27	1.28
+CMR	Cameroon	1.20	1.19	1.20	1.21	1.21
+CAN	Canada	1.25	1.20	1.16	1.15	1.15
+CPV	Cabo Verde	1.19	1.20	1.21	1.22	1.22
+CAF	Central African Republic	1.16	1.16	1.17	1.17	1.18
+TCD	Chad	1.16	1.18	1.19	1.20	1.20
+CHL	Chile	1.22	1.20	1.19	1.19	1.18
+CHN	China	1.11	1.13	1.15	1.14	1.13
+COL	Colombia	1.27	1.28	1.27	1.26	1.26
+COM	Comoros	1.17	1.18	1.19	1.20	1.21
+COG	Congo	1.21	1.18	1.22	1.22	1.23
+COD	Democratic Republic of the Congo	1.14	1.17	1.19	1.19	1.20
+COK	Cook Islands	1.25	1.25	1.23	1.22	1.21
+CRI	Costa Rica	1.28	1.25	1.21	1.18	1.18
+CIV	C?te d'Ivoire	1.20	1.22	1.26	1.26	1.26
+HRV	Croatia	1.29	1.22	1.18	1.18	1.18
+CUB	Cuba	1.33	1.30	1.25	1.24	1.24
+CYP	Cyprus	1.22	1.18	1.17	1.17	1.17
+CZE	Czechia	1.32	1.27	1.28	1.28	1.28
+DNK	Denmark	1.29	1.22	1.19	1.19	1.19
+DJI	Djibouti	1.17	1.17	1.18	1.19	1.20
+DMA	Dominica	1.17	1.17	1.17	1.16	1.16
+DOM	Dominican Republic	1.18	1.20	1.20	1.21	1.21
+ECU	Ecuador	1.27	1.30	1.29	1.28	1.27
+EGY	Egypt	1.06	1.11	1.13	1.14	1.15
+SLV	El Salvador	1.20	1.22	1.24	1.23	1.23
+GNQ	Equatorial Guinea	1.16	1.17	1.19	1.20	1.20
+ERI	Eritrea	1.31	1.33	1.34	1.34	1.34
+EST	Estonia	1.30	1.27	1.22	1.21	1.21
+ETH	Ethiopia	1.23	1.27	1.31	1.32	1.32
+FSM	Micronesia (Federated States of)	1.22	1.22	1.23	1.24	1.24
+FJI	Fiji	1.19	1.18	1.18	1.19	1.19
+FIN	Finland	1.23	1.22	1.21	1.20	1.20
+FRA	France	1.34	1.27	1.23	1.22	1.22
+GAB	Gabon	1.25	1.25	1.26	1.26	1.27
+GMB	Gambia	1.19	1.21	1.22	1.22	1.23
+GEO	Georgia	1.26	1.28	1.29	1.27	1.27
+DEU	Germany	1.31	1.24	1.21	1.18	1.19
+GHA	Ghana	1.19	1.21	1.23	1.24	1.24
+GRC	Greece	1.18	1.17	1.16	1.17	1.17
+GRD	Grenada	1.18	1.18	1.18	1.19	1.20
+GTM	Guatemala	1.22	1.23	1.24	1.25	1.25
+GIN	Guinea	1.14	1.15	1.16	1.17	1.17
+GNB	Guinea-Bissau	1.17	1.19	1.22	1.23	1.23
+GUY	Guyana	1.30	1.30	1.30	1.31	1.31
+HTI	Haiti	1.19	1.21	1.15	1.22	1.23
+HND	Honduras	1.24	1.25	1.26	1.26	1.26
+HUN	Hungary	1.25	1.21	1.17	1.17	1.17
+ISL	Iceland	1.19	1.19	1.19	1.19	1.19
+IND	India	1.05	0.99	0.97	0.99	1.00
+IDN	Indonesia	1.23	1.22	1.24	1.25	1.26
+IRN	Iran (Islamic Republic of)	1.07	1.09	1.11	1.12	1.12
+IRQ	Iraq	1.18	1.19	1.21	1.22	1.22
+IRL	Ireland	1.24	1.22	1.20	1.20	1.20
+ISR	Israel	1.14	1.14	1.14	1.14	1.15
+ITA	Italy	1.23	1.17	1.18	1.19	1.18
+JAM	Jamaica	1.27	1.28	1.28	1.27	1.27
+JPN	Japan	1.17	1.16	1.13	1.10	1.09
+JOR	Jordan	1.13	1.18	1.20	1.20	1.20
+KAZ	Kazakhstan	1.31	1.32	1.34	1.32	1.31
+KEN	Kenya	1.17	1.19	1.22	1.23	1.23
+KIR	Kiribati	1.21	1.22	1.22	1.23	1.23
+PRK	Democratic People's Republic of Korea	1.23	1.21	1.25	1.25	1.25
+KOR	Republic of Korea	1.19	1.14	1.16	1.16	1.16
+KWT	Kuwait	1.18	1.18	1.18	1.17	1.18
+KGZ	Kyrgyzstan	1.22	1.24	1.26	1.26	1.26
+LAO	Lao People's Democratic Republic	1.19	1.23	1.25	1.26	1.26
+LVA	Latvia	1.28	1.21	1.17	1.16	1.16
+LBN	Lebanon	1.08	1.09	1.09	1.09	1.08
+LSO	Lesotho	1.21	1.20	1.21	1.21	1.22
+LBR	Liberia	1.16	1.16	1.19	1.21	1.21
+LBY	Libya	1.22	1.25	1.26	1.25	1.25
+LTU	Lithuania	1.26	1.22	1.18	1.17	1.17
+LUX	Luxembourg	1.22	1.18	1.18	1.18	1.18
+MKD	Republic of North Macedonia	1.13	1.16	1.15	1.15	1.14
+MDG	Madagascar	1.15	1.18	1.21	1.22	1.23
+MWI	Malawi	1.12	1.15	1.22	1.24	1.24
+MYS	Malaysia	1.25	1.24	1.22	1.19	1.19
+MDV	Maldives	1.20	1.24	1.25	1.24	1.22
+MLI	Mali	1.17	1.17	1.18	1.19	1.19
+MLT	Malta	1.22	1.20	1.18	1.19	1.19
+MHL	Marshall Islands	1.24	1.25	1.26	1.27	1.27
+MRT	Mauritania	1.23	1.23	1.23	1.24	1.24
+MUS	Mauritius	1.31	1.30	1.26	1.24	1.24
+MEX	Mexico	1.21	1.23	1.22	1.23	1.22
+MDA	Republic of Moldova	1.27	1.26	1.26	1.26	1.26
+MCO	Monaco	1.25	1.24	1.24	1.23	1.23
+MNG	Mongolia	1.46	1.47	1.51	1.51	1.51
+MNE	Montenegro	1.14	1.16	1.13	1.12	1.12
+MAR	Morocco	1.18	1.21	1.23	1.23	1.24
+MOZ	Mozambique	1.10	1.10	1.14	1.15	1.16
+MMR	Myanmar	1.22	1.23	1.23	1.24	1.24
+NAM	Namibia	1.19	1.20	1.22	1.22	1.23
+NRU	Nauru	1.21	1.23	1.23	1.24	1.24
+NPL	Nepal	1.12	1.14	1.17	1.18	1.19
+NLD	Netherlands	1.30	1.24	1.21	1.21	1.21
+NZL	New Zealand	1.27	1.24	1.23	1.23	1.22
+NIC	Nicaragua	1.23	1.26	1.28	1.28	1.27
+NER	Niger	1.11	1.14	1.18	1.19	1.20
+NGA	Nigeria	1.18	1.18	1.21	1.21	1.21
+NIU	Niue	1.24	1.25	1.24	1.24	1.25
+NOR	Norway	1.27	1.24	1.23	1.22	1.22
+OMN	Oman	1.22	1.24	1.23	1.23	1.23
+PAK	Pakistan	1.13	1.15	1.20	1.21	1.21
+PLW	Palau	1.24	1.24	1.25	1.25	1.25
+PAN	Panama	1.24	1.24	1.25	1.25	1.25
+PNG	Papua New Guinea	1.17	1.18	1.19	1.20	1.21
+PRY	Paraguay	1.20	1.22	1.23	1.23	1.23
+PER	Peru	1.18	1.21	1.24	1.23	1.23
+PHL	Philippines	1.28	1.27	1.26	1.26	1.26
+POL	Poland	1.28	1.21	1.20	1.20	1.21
+PRT	Portugal	1.25	1.21	1.20	1.22	1.21
+QAT	Qatar	1.20	1.19	1.18	1.17	1.16
+ROU	Romania	1.26	1.25	1.26	1.25	1.23
+RUS	Russian Federation	1.36	1.32	1.26	1.25	1.23
+RWA	Rwanda	1.15	1.14	1.20	1.22	1.23
+KNA	Saint Kitts and Nevis	1.22	1.23	1.22	1.22	1.22
+LCA	Saint Lucia	1.25	1.23	1.23	1.23	1.23
+WSM	Samoa	1.21	1.21	1.22	1.22	1.22
+SMR	San Marino	1.24	1.18	1.18	1.18	1.18
+STP	Sao Tome and Principe	1.21	1.22	1.25	1.26	1.26
+SAU	Saudi Arabia	1.14	1.15	1.13	1.12	1.11
+SEN	Senegal	1.18	1.21	1.24	1.25	1.25
+SRB	Serbia	1.14	1.27	1.26	1.24	1.23
+SYC	Seychelles	1.18	1.17	1.18	1.18	1.18
+SLE	Sierra Leone	1.13	1.12	1.13	1.14	1.15
+SGP	Singapore	1.19	1.17	1.18	1.17	1.17
+SVK	Slovakia	1.30	1.25	1.23	1.21	1.22
+SVN	Slovenia	1.25	1.19	1.17	1.17	1.17
+SLB	Solomon Islands	1.19	1.19	1.20	1.21	1.21
+SOM	Somalia	1.14	1.14	1.15	1.16	1.17
+ZAF	South Africa	1.20	1.17	1.17	1.18	1.19
+SSD	South Sudan	1.13	1.14	1.17	1.18	1.18
+ESP	Spain	1.23	1.20	1.18	1.19	1.19
+LKA	Sri Lanka	1.22	1.21	1.21	1.23	1.21
+VCT	Saint Vincent and the Grenadines	1.19	1.20	1.21	1.21	1.21
+PSE	State of Palestine	1.13	1.16	1.17	1.18	1.18
+SDN	Sudan	1.22	1.24	1.25	1.25	1.25
+SUR	Suriname	1.23	1.25	1.26	1.26	1.26
+SWZ	Eswatini	1.24	1.22	1.22	1.23	1.24
+SWE	Sweden	1.25	1.23	1.19	1.19	1.19
+CHE	Switzerland	1.27	1.22	1.18	1.18	1.18
+SYR	Syrian Arab Republic	1.17	1.21	1.21	1.21	1.21
+TJK	Tajikistan	1.22	1.24	1.28	1.28	1.28
+TZA	United Republic of Tanzania	1.10	1.12	1.16	1.17	1.18
+THA	Thailand	1.26	1.27	1.26	1.25	1.24
+TLS	Timor-Leste	1.12	1.15	1.18	1.19	1.20
+TGO	Togo	1.20	1.22	1.23	1.23	1.24
+TON	Tonga	0.74	0.74	0.73	0.73	0.74
+TTO	Trinidad and Tobago	1.20	1.20	1.22	1.22	1.22
+TUN	Tunisia	1.19	1.22	1.21	1.20	1.20
+TUR	Turkey	1.12	1.12	1.12	1.13	1.13
+TKM	Turkmenistan	1.29	1.29	1.30	1.30	1.30
+TUV	Tuvalu	1.23	1.25	1.25	1.26	1.26
+UGA	Uganda	1.15	1.18	1.21	1.22	1.23
+UKR	Ukraine	1.26	1.26	1.25	1.23	1.24
+ARE	United Arab Emirates	1.28	1.27	1.24	1.24	1.23
+GBR	United Kingdom	1.30	1.24	1.22	1.22	1.22
+USA	United States	1.25	1.22	1.21	1.19	1.19
+URY	Uruguay	1.26	1.28	1.26	1.27	1.25
+UZB	Uzbekistan	1.30	1.31	1.32	1.33	1.33
+VUT	Vanuatu	1.19	1.18	1.18	1.18	1.19
+VEN	Venezuela (Bolivarian Republic of)	1.25	1.28	1.27	1.23	1.18
+VNM	Viet Nam	1.31	1.33	1.33	1.33	1.32
+YEM	Yemen	1.18	1.18	1.20	1.20	1.20
+ZMB	Zambia	1.14	1.15	1.19	1.20	1.21
+ZWE	Zimbabwe	1.27	1.25	1.24	1.26	1.27
