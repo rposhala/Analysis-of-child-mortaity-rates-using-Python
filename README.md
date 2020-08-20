@@ -30,4 +30,4 @@ almost all countries have a decline in mortality rates, we could observe that a 
 government and economy contributes the most for the decline in mortality rates for a
 country(observed through the countries which have high mortality rates are still either under
 developed or developing). Through the visualizations done , we can see where a country
-should focus to better its child mortality rate
+should focus to better its child mortality rate.
